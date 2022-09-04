@@ -1,0 +1,5 @@
+command /scusa:
+    permission: sk.scusa
+    permission message: &b&lSKRIPT &7Comando Sconosciuto
+    trigger:
+        broadcast "%player% ha chiesto scusa"
