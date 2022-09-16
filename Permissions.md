@@ -1,0 +1,2 @@
+permissions:
+sk.scusa
